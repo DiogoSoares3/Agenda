@@ -7,3 +7,5 @@ Para o desenvolvimento da agenda foi utilizado o MVC, que é uma arquitetura de 
 O frontend foi desenvolvido utilizando HTML e CSS, juntamente com JavaScript para criar a interatividade da página. A biblioteca EJS foi utilizada para permitir a criação de templates dinâmicos e o node.js com o express.js foram responsáveis pelo gerenciamento de rotas e requisições do servidor.
 
 Já o banco de dados utilizado foi o MongoDB, um banco de dados NoSQL que permitiu armazenar e gerenciar os dados dos contatos. Foi utilizado o mongoose para formar um schema que coleta os dados do banco de dados e que faz a modelagem para o formato de um objeto javascript.
+
+Obs: É preciso instalar o pacote node_modules no diretório para compilar o programa.
